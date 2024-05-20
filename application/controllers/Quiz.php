@@ -1,3 +1,6 @@
+<?php include 'includes/header.php';
+
+
 class Quiz extends CI_Controller{
 
     public function __construct(){
